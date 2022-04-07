@@ -1,2 +1,2 @@
 # Programmers
-solve them
+solve algorithm in programmers
